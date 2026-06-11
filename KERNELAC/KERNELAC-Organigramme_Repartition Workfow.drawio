@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1238" dy="690" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="270" width="481" x="345" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="MODE NOMINAL : AU QUOTIDIEN" vertex="1">
+          <mxGeometry height="30" width="200" x="475" y="159" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-12" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="220" width="230" x="585" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-11" parent="s6vrRnS9AsI-OCZO7Fwq-12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="220" width="230" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-8" parent="s6vrRnS9AsI-OCZO7Fwq-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Niveau 3" vertex="1">
+          <mxGeometry height="30" width="95" x="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-9" parent="s6vrRnS9AsI-OCZO7Fwq-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Tâches principales :&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Gestion d&#39;incidence N3&lt;/li&gt;&lt;li&gt;Escalade GLPI&lt;/li&gt;&lt;li&gt;Déploiement de correctifs lourds&lt;/li&gt;&lt;li&gt;MCO infrastructure&lt;/li&gt;&lt;li&gt;Depannage vSphère/Fortigate/ Synology&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-10" parent="s6vrRnS9AsI-OCZO7Fwq-12" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;Responsabilité :&lt;/b&gt;&amp;nbsp;Volteia Systems&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-13" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="220" width="220" x="355" y="199" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-4" parent="s6vrRnS9AsI-OCZO7Fwq-13" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="220" width="220" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-5" parent="s6vrRnS9AsI-OCZO7Fwq-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Niveau 1 &amp;amp; 2" vertex="1">
+          <mxGeometry height="30" width="95" x="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-6" parent="s6vrRnS9AsI-OCZO7Fwq-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0" value="&lt;b&gt;Tâches principales :&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Support de proximité&lt;/li&gt;&lt;li&gt;Déploiement de postes&lt;/li&gt;&lt;li&gt;Administration de base du SI &lt;i&gt;(services et matériels)&lt;/i&gt;&lt;/li&gt;&lt;li&gt;Gestion d&#39;incidence N1 &amp;amp; 2&lt;/li&gt;&lt;li&gt;Accompagnement utilisateur&lt;/li&gt;&lt;li&gt;Supervision&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="140" width="200" x="10" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-7" parent="s6vrRnS9AsI-OCZO7Fwq-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;Responsabilité :&lt;/b&gt; Responsable SI&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre; font-weight: normal;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-weight: normal;&quot;&gt;&#x9;         &lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Technicien IT&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="MODE DEGRADE: EN CAS DE CRISE" vertex="1">
+          <mxGeometry height="30" width="220" x="466" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="220" width="230" x="586" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-16" parent="s6vrRnS9AsI-OCZO7Fwq-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="220" width="230" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-17" parent="s6vrRnS9AsI-OCZO7Fwq-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Soutien technique spécialisé" vertex="1">
+          <mxGeometry height="30" width="137.5" x="46.25" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-18" parent="s6vrRnS9AsI-OCZO7Fwq-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0" value="&lt;div&gt;&lt;b&gt;Tâches principales :&lt;/b&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Assistance bascule Azure&lt;/li&gt;&lt;li&gt;Support infrastruture lourd&lt;/li&gt;&lt;li&gt;Correction des bugs de synchronisation BDD/services Azure&lt;/li&gt;&lt;li&gt;Gestion des routage en cas de blocage&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="10" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-19" parent="s6vrRnS9AsI-OCZO7Fwq-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;Responsabilité :&lt;/b&gt;&amp;nbsp;Volteia Systems&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="220" width="220" x="356" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-21" parent="s6vrRnS9AsI-OCZO7Fwq-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" value="" vertex="1">
+          <mxGeometry height="220" width="220" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-22" parent="s6vrRnS9AsI-OCZO7Fwq-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Activation et execution du PCA/PRA" vertex="1">
+          <mxGeometry height="30" width="157.5" x="31.25" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-23" parent="s6vrRnS9AsI-OCZO7Fwq-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=0" value="&lt;b&gt;Tâches principales :&lt;/b&gt;&lt;ul&gt;&lt;li&gt;Bascule infra Azure&lt;/li&gt;&lt;li&gt;Support N1 &amp;amp; N2&amp;nbsp;&lt;/li&gt;&lt;li&gt;Communique avec l&#39;infogérance&lt;/li&gt;&lt;li&gt;Administration sur site&lt;/li&gt;&lt;li&gt;Vérifie le bon fonctionnement après bascule&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="140" width="200" x="10" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-24" parent="s6vrRnS9AsI-OCZO7Fwq-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;b&gt;Responsabilité :&lt;/b&gt; Responsable SI&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre; font-weight: normal;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-weight: normal;&quot;&gt;&#x9;         &lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Technicien IT&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="10" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="610" width="500" x="335" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="270" width="481" x="345" y="159" as="geometry" />
+        </mxCell>
+        <mxCell id="s6vrRnS9AsI-OCZO7Fwq-27" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="REPARTITION DU WORKFLOW DE TICKETING ET DE CRISE" vertex="1">
+          <mxGeometry height="30" width="270" x="450" y="119" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
