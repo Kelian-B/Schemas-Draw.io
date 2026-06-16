@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="mpZ_PWhxl8qiY-tAAmfI">
-    <mxGraphModel dx="3989" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,8 +190,8 @@
         <mxCell id="VFSvoeh9tOZ3RJPG3SVJ-57" parent="VFSvoeh9tOZ3RJPG3SVJ-55" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="La mairie héberge l&#39;infrastructure virtuelle et stockage data" vertex="1">
           <mxGeometry height="40" width="70" x="10" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="VFSvoeh9tOZ3RJPG3SVJ-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="Schéma logique : Interconnexion des coeurs de réseaux SAP" vertex="1">
-          <mxGeometry height="10.78" width="440" x="320" y="120" as="geometry" />
+        <mxCell id="VFSvoeh9tOZ3RJPG3SVJ-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;fontStyle=1" value="Schéma logique : Interconnexion des coeurs de réseaux de la mairie" vertex="1">
+          <mxGeometry height="10.78" width="510" x="320" y="120" as="geometry" />
         </mxCell>
         <mxCell id="VFSvoeh9tOZ3RJPG3SVJ-59" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" value="FTTO&lt;div&gt;1GIG&lt;/div&gt;" vertex="1">
           <mxGeometry x="1010.0000000000002" y="514" as="geometry" />
